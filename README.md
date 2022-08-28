@@ -1,5 +1,6 @@
 ## API Instuctions
 Clone the project
+Copy paste example.env, rename it to be .env, change db credentials. 
 
 Run below command to install requisite dependencies 
 composer install
